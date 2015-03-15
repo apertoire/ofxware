@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+  <account bank="BG" number="XXXXXXXXXXX1234" type="CREDITLINE">
+    <startdate>Jan 01, 2009</startdate>
+    <enddate>Jan 31, 2009</enddate>
+    <balance>478.45</balance>
+  </account>
+  <account bank="CITI" number="XXXXXXXXXXX4567" type="SAVINGS">
+    <startdate>Jan 01, 2010</startdate>
+    <enddate>Jan 31, 2010</enddate>
+    <balance>306.27</balance>
+  </account>
+</accounts>
